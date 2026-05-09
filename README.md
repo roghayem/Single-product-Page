@@ -47,7 +47,7 @@ View the page online via the live demo link above.
 
 Clone the repository to see the code and make modifications:
 
-git clone https://github.com/roghaye84/Single-product-Page
+git clone https://github.com/roghayem/Single-product-Page
 
 
 Explore interactive product sections, pricing, and visuals.
